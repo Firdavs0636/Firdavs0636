@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @Firdavs0636
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning IoT
+- 🌱 I’m currently learning IoT, Adnroid Develpment, Image Processing, Probability and Statistics
+- 🌱 In have an experience in languages such as: Pyton, C, C++, Swift, Java
+- 🌱 Developed some projects on Raspberry Pi and Arduino
 - 💞️ I’m looking to collaborate on AI projects
 - 📫 How to reach me baron.firdavs@gmail.com
 
