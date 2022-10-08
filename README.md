@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Firdavs0636
+- 👋 Hi, I’m @Firdavs
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning IoT, Adnroid Develpment, Image Processing, Probability and Statistics
 - 🌱 In have an experience in languages such as: Pyton, C, C++, Swift, Java
