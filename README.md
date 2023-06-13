@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ML
 - 🌱 In have experiences in languages such as: Pyton, C, C++, Java
 - 🌱 Developed some projects on Raspberry Pi and Arduino
-- 💞️ I’m looking to collaborate on AI projects
+- I’m looking to collaborate on AI projects
 - 📫 How to reach me baron.firdavs@gmail.com
 
 <!---
